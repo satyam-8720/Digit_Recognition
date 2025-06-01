@@ -1,0 +1,10 @@
+# Ignore system files and Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.env
+.venv
