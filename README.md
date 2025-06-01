@@ -51,7 +51,7 @@ Open-source under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-*Your Name*
+*Satyam*
 
 ---
 
